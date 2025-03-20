@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('version12.js');
+console.log('scatrew.js');
